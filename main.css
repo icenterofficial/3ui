@@ -261,9 +261,9 @@ label.switch {background-color:#d1d1d1;border-radius:8px}
 a[href^="https://3-ui.blogspot.com/search/label/Videos"] { background: #fef9c3; color:#895213}
 a[href^="https://3-ui.blogspot.com/search/label/Posters"] { background: #dbeafe; color:#3a34a5}
 a[href^="https://3-ui.blogspot.com/search/label/Books"] { background: #fce7f3;color:#9d174d}
-a[href^="https://3-ui.blogspot.com/search/label/App"] { background: #00ff00}
-a[href^="https://3-ui.blogspot.com/search/label/Docs"] { background: #00ffff}
-a[href^="https://3-ui.blogspot.com/search/label/Articles"] { background: #7f00ff}
+a[href^="https://3-ui.blogspot.com/search/label/App"] { background:#dcfce7; color:#16675c}
+a[href^="https://3-ui.blogspot.com/search/label/Docs"] { background: #f3f4f6; color:#1f2937}
+a[href^="https://3-ui.blogspot.com/search/label/Articles"] { background: #f3e8ff; color:#6b21a8}
 a[href^="https://3-ui.blogspot.com/search/label/Sponsored"] { background: #808080}
 a[href^="https://3-ui.blogspot.com/search/label/Product"] { background: #ff8000}
 a[href^="https://3-ui.blogspot.com/search/label/test"] { background: var(--bodyC)}
