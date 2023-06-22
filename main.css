@@ -331,3 +331,5 @@ a[href^="https://facebook.com"] { color: #ff8000 !important; background: #FFE5CC
 
 button.css-1ekacw6{height: 2.5em !important;width: 2.5em !important;}
 .css-10vojt1{margin-left: 0.1em;}
+
+/* Noscript Option */ .lazy:not([lazied]){display:none} .bD .pS img.lazy:not([lazied]){display:none !important} .lazy.loaded, .tocL, .pVws:not(.hidden), .hmv:not(.hidden), .aSlT.vsbl, .aSlB.vsbl{animation:opaCity .5s 0s;-webkit-animation:opaCity .5s 0s} .noJs{display:flex;justify-content:flex-end;align-items:center;position:fixed;top:20px;left:20px;right:20px;z-index:99;max-width:640px;border-radius:12px;margin:auto;padding:10px 5px;background:#ffdfdf;font-size:13px;box-shadow:0 10px 20px -10px rgba(0,0,0,.1);color:#48525c} .noJs::before{content:attr(data-text);padding:0 10px;flex-grow:1} .noJs label{flex-shrink:0;padding:10px} .noJs label::after{content:'\2715';line-height:18px;font-size:14px} .nJs:checked ~ .noJs{display:none}
