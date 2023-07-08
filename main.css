@@ -37,7 +37,7 @@
 .drK .iFxd .bM::after{color:#000}
 
 /* Media View */
-.iFxdV a {display: flex; align-items: center; justify-content: flex-start; color: #000; box-shadow: unset; background: unset; margin: unset; border-right: 1px solid var(--Thumbnail-Border); padding: 0 9px 0 0; border-radius: unset;} .iFxdV svg {width: 16px; height: 16px; margin-right: 3px;} .iFxdV{display: flex;}
+.iFxdV a {/*display: flex; align-items: center; justify-content: flex-start; color: #000; box-shadow: unset; background: unset; margin: unset; border-right: 1px solid var(--Thumbnail-Border); padding: 0 9px 0 0; border-radius: unset;*/} .iFxdV svg {width: 16px; height: 16px; margin-right: 3px;} .iFxdV{display: flex;}
 .pInf .pV.pu-views {display: flex; align-items: center;margin: 0 0 0 10px; padding: unset; border-radius: unset; background: unset; box-shadow: unset;}
 .Rtl .pInf .pV.pu-views {display: flex; align-items: center;margin: 0 7px 0 0;}
 .Rtl .pInf .iFxdV a {padding: 0 0 0 9px;border-left: 1px solid var(--Thumnail-Border);border-right: 0;}
